@@ -1,0 +1,13 @@
+ Volume in drive C is Windows
+ Volume Serial Number is B0BA-1D4C
+
+ Directory of C:\Users\Priyanshu Ranjan\Desktop\My Project
+
+26-04-2022  10:54    <DIR>          .
+26-04-2022  10:54    <DIR>          ..
+26-04-2022  10:45               896 hello.class
+21-04-2022  18:57               137 hello.java
+26-04-2022  10:54                 0 new.txt
+24-04-2022  20:16               455 readme.txt
+               4 File(s)          1,488 bytes
+               2 Dir(s)  112,238,833,664 bytes free
